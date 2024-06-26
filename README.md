@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="praveenkacc123@gmail.com">
+  <a href="mailto:praveenkacc123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/praveen-kumar-r-b9803a229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
