@@ -17,7 +17,8 @@
 💬 Ask me about **Node.js, React or anything about my skills**
 
  </div>
- 
+ ![GitHub Snake](https://github.com/<your-username>/<your-repository>/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center"> 
   <a href="mailto:praveenkacc123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
