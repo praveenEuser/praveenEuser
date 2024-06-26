@@ -16,7 +16,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveeneuser&show_icons=true&locale=en&layout=compact" alt="praveeneuser" /></p><br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveeneuser&show_icons=true&locale=en" alt="praveeneuser" /></p><br/>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveeneuser&" alt="praveeneuser" /></p>
-
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveeneuser&label=Profile%20views&color=0e75b6&style=flat" alt="praveeneuser" /> </p>
