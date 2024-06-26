@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **BANNARI AMMAN INSTITUTE OF TECHNOLOGY**
+ 🔭 I’m currently studying **B.E CSE**
  
  🌱 I’m currently learning **Tailwind, ReactNative**
 
