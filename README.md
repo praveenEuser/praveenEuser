@@ -10,11 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **B.E CSE**
+ 🔭 SAP ABAP Intern
  
- 🌱 I’m currently learning **Tailwind, ReactNative**
 
-💬 Ask me about **Node.js, React or anything about my skills**
+💬 Ask me about *ABAP**
 
  </div>
 
