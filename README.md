@@ -4,16 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Praveen+Kumar!;" />
 </h1>
 
-<h3 align="center">A passionate font-end developer</h3>
+<h3 align="center">CAPM DEV</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 SAP ABAP Intern
+ 🔭 SAP Associate Consultant
  
 
-💬 Ask me about *ABAP**
+💬 Ask me about *CAPM**
 
  </div>
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,r" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,r" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,c,java,mysql" /><br>
 </div>
 
