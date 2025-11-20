@@ -35,6 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,r" /><br>
+    <img src="https://sap.github.io/cloud-sdk/docs/img/CAP_Logo.png" width="80"/>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,c,java,mysql" /><br>
 </div>
 
