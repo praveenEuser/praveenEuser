@@ -36,6 +36,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,r" /><br>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzghAedvVHGWMCv5Qbn0xPLqwjDcdueEAfg&s" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SAP_HANA_logo.svg" width="60"/>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,c,java,mysql" /><br>
 </div>
 
